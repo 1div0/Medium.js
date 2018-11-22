@@ -157,7 +157,7 @@
 			style.top = top + 'px';
 
 			utils.show(this.icon);
-      return this;
+			return this;
 		},
 		cleanCanvas: function() {
 			var target,
@@ -176,7 +176,7 @@
 				}
 			}
 			utils.detachNode(this.icon);
-      return this;
+			return this;
 		}
 	};
 })(Medium);

@@ -739,8 +739,8 @@ Medium.defaultSettings = {
 	},
 	beforeAddTag: function (tag, shouldFocus, isEditable, afterElement) {
 	},
-        onBlur: function() {},
-        onFocus: function() {},
+		onBlur: function() {},
+		onFocus: function() {},
 	keyContext: null,
 	drag: false
 };

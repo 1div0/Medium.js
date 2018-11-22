@@ -6,7 +6,7 @@
 		this.initialized = false;
 		this.cmd = false;
 		this.focusedElement = null;
-                this.originalVal = null;
+		this.originalVal = null;
 	};
 
 })(Medium);
